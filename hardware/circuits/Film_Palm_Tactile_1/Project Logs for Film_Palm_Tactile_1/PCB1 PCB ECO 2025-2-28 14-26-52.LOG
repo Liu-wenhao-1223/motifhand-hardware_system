@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+5 Pin=C46-2
+Removed Pin From Net: NetName=+5 Pin=C47-2
+Removed Pin From Net: NetName=+5 Pin=C55-2
+Removed Pin From Net: NetName=+5 Pin=P4-5-1
+Removed Pin From Net: NetName=+5 Pin=P6-4
+Removed Pin From Net: NetName=+5 Pin=U7-3
+Removed Pin From Net: NetName=+5 Pin=U9-3
+Removed Pin From Net: NetName=+5 Pin=U10-A4B9
+Removed Pin From Net: NetName=+5 Pin=U10-B4A9
+Added Pin To Net: NetName=+5V Pin=C46-2
+Added Pin To Net: NetName=+5V Pin=C47-2
+Added Pin To Net: NetName=+5V Pin=C55-2
+Added Pin To Net: NetName=+5V Pin=P4-5-1
+Added Pin To Net: NetName=+5V Pin=P6-4
+Added Pin To Net: NetName=+5V Pin=U7-3
+Added Pin To Net: NetName=+5V Pin=U9-3
+Added Pin To Net: NetName=+5V Pin=U10-A4B9
+Added Pin To Net: NetName=+5V Pin=U10-B4A9
+Added Member To Class: ClassName=Sheet2_COM Member=Component C54
+Added Member To Class: ClassName=Sheet2_COM Member=Component C56
+Added Member To Class: ClassName=Sheet2_COM Member=Component R25 5.1K
+Added Member To Class: ClassName=Sheet2_COM Member=Component R26 5.1K

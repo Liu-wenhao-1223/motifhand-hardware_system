@@ -1,0 +1,19 @@
+Added Component: Designator=D1(SOD-123FL_L2.7-W1.8-LS3.8-RD)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=+5V Pin=D1-2
+Added Member To Class: ClassName=Sheet1_Palm Member=Component C6 0.1¦ÌF
+Added Member To Class: ClassName=Sheet1_Palm Member=Component C8 1¦ÌF
+Added Member To Class: ClassName=Sheet1_Palm Member=Component C14 1¦ÌF
+Added Member To Class: ClassName=Sheet1_Palm Member=Component C15 1¦ÌF
+Added Member To Class: ClassName=Sheet2_COM Member=Component C16 0.1¦ÌF
+Added Member To Class: ClassName=Sheet2_COM Member=Component C17 4.7¦ÌF
+Added Member To Class: ClassName=Sheet2_COM Member=Component C38 0.1¦ÌF
+Added Member To Class: ClassName=Sheet2_COM Member=Component C39 1¦ÌF
+Added Member To Class: ClassName=Sheet2_COM Member=Component C40 0.1¦ÌF
+Added Member To Class: ClassName=Sheet2_COM Member=Component C41 1¦ÌF
+Added Member To Class: ClassName=Sheet2_COM Member=Component C42 0.1¦ÌF
+Added Member To Class: ClassName=Sheet2_COM Member=Component C44 0.1¦ÌF
+Added Member To Class: ClassName=Sheet2_COM Member=Component D1 SMF5.0A
+Added Member To Class: ClassName=Sheet1_Palm Member=Component U1 STM32H743VGT6
+Added Member To Class: ClassName=Sheet1_Palm Member=Component U2 XC6206P182MR
+Added Member To Class: ClassName=Sheet2_COM Member=Component U6 STM32H743VGT6

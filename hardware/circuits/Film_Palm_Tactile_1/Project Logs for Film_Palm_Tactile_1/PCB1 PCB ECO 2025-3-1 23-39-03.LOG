@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC Pin=R10-2
+Removed Pin From Net: NetName=VCC Pin=R14-2
+Removed Pin From Net: NetName=VCC Pin=R17-2
+Removed Pin From Net: NetName=VCC Pin=R20-2
+Removed Pin From Net: NetName=VCC Pin=R23-2
+Removed Member From Class: ClassName=Sheet1_Palm Member=C61
+Removed Member From Class: ClassName=Sheet1_Palm Member=C62
+Added Pin To Net: NetName=VDD2 Pin=R10-2
+Added Pin To Net: NetName=VDD2 Pin=R14-2
+Added Pin To Net: NetName=VDD2 Pin=R17-2
+Added Pin To Net: NetName=VDD2 Pin=R20-2
+Added Pin To Net: NetName=VDD2 Pin=R23-2
+Added Member To Class: ClassName=Sheet1_Palm Member=Component C16 10¦ÌF
+Added Member To Class: ClassName=Sheet1_Palm Member=Component C17 0.1¦ÌF

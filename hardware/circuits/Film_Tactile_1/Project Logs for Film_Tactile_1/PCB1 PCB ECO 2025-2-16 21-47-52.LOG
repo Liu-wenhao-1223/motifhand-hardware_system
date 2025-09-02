@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VDD Pin=P1-1
+Removed Pin From Net: NetName=RS485_B Pin=P1-2
+Removed Pin From Net: NetName=RS485_A Pin=P1-3
+Removed Pin From Net: NetName=VDD Pin=P2-1
+Removed Pin From Net: NetName=VDD Pin=P3-1
+Added Pin To Net: NetName=+5 Pin=P1-1
+Added Pin To Net: NetName=RS485_A Pin=P1-2
+Added Pin To Net: NetName=RS485_B Pin=P1-3
+Added Pin To Net: NetName=+5 Pin=P2-1
+Added Pin To Net: NetName=+5 Pin=P3-1
+Change Net Name : Old Net Name=+5 New Net Name=+5V
+Added Member To Class: ClassName=Sheet1 Member=Component C6
+Added Member To Class: ClassName=Sheet1 Member=Component C7
+Added Member To Class: ClassName=Sheet1 Member=Component C9
+Added Member To Class: ClassName=Sheet1 Member=Component C10
+Added Member To Class: ClassName=Sheet1 Member=Component C11
+Added Member To Class: ClassName=Sheet1 Member=Component C12
+Added Member To Class: ClassName=Sheet1 Member=Component C13
+Added Member To Class: ClassName=Sheet1 Member=Component C14
+Added Member To Class: ClassName=Sheet1 Member=Component C15
+Added Member To Class: ClassName=Sheet1 Member=Component C16
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component R3 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 120R
+Added Member To Class: ClassName=Sheet1 Member=Component R9 1K
+Added Member To Class: ClassName=Sheet1 Member=Component U5 SIT3088ETK
+Added Rule: Name=Schematic Supply Nets

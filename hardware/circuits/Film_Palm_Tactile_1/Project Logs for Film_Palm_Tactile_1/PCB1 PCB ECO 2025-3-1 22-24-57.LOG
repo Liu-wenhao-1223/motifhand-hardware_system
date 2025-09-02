@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=VDD Pin=C16-2
+Removed Pin From Net: NetName=VDD Pin=C17-1
+Removed Pin From Net: NetName=VDD Pin=C38-1
+Removed Pin From Net: NetName=VDD Pin=C39-1
+Removed Pin From Net: NetName=VDD Pin=C40-1
+Removed Pin From Net: NetName=VDD Pin=C41-1
+Removed Pin From Net: NetName=VDD Pin=C42-2
+Removed Pin From Net: NetName=VDD Pin=C43-2
+Removed Pin From Net: NetName=VDD Pin=C44-2
+Removed Pin From Net: NetName=VDD Pin=C45-2
+Removed Pin From Net: NetName=VDD Pin=C48-2
+Removed Pin From Net: NetName=VDD Pin=C49-2
+Removed Pin From Net: NetName=VDD Pin=C50-2
+Removed Pin From Net: NetName=VDD Pin=C51-2
+Removed Pin From Net: NetName=VDD Pin=C52-2
+Removed Pin From Net: NetName=VDD Pin=C53-2
+Removed Pin From Net: NetName=VDD Pin=C54-2
+Removed Pin From Net: NetName=VDD Pin=U6-6
+Removed Pin From Net: NetName=VDD Pin=U6-11
+Removed Pin From Net: NetName=VDD Pin=U6-20
+Removed Pin From Net: NetName=VDD Pin=U6-21
+Removed Pin From Net: NetName=VDD Pin=U6-27
+Removed Pin From Net: NetName=VDD Pin=U6-50
+Removed Pin From Net: NetName=VDD Pin=U6-75
+Removed Pin From Net: NetName=VDD Pin=U6-100
+Removed Pin From Net: NetName=VDD Pin=U7-2
+Removed Pin From Net: NetName=VDD Pin=U8-1-8
+Removed Pin From Net: NetName=VDD Pin=U8-2-8
+Removed Pin From Net: NetName=VDD Pin=U8-3-8
+Removed Pin From Net: NetName=VDD Pin=U8-4-8
+Removed Pin From Net: NetName=VDD Pin=U9-1
+Change Component Designator: OldDesignator=C16 NewDesignator=C61
+Change Component Designator: OldDesignator=C17 NewDesignator=C62
+Added Component: Designator=C16(C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C57(C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C58(C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U11(AMS1117-3.3)
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+5V Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=+5V Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=VDD Pin=C57-2
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=VDD Pin=C58-2
+Added Pin To Net: NetName=GND Pin=U11-1
+Added Pin To Net: NetName=VDD Pin=U11-2
+Added Pin To Net: NetName=+5V Pin=U11-3
+Change Net Name : Old Net Name=VDD New Net Name=VDD1
+Added Pin To Net: NetName=VDD2 Pin=C38-1
+Added Pin To Net: NetName=VDD2 Pin=C39-1
+Added Pin To Net: NetName=VDD2 Pin=C40-1
+Added Pin To Net: NetName=VDD2 Pin=C41-1
+Added Pin To Net: NetName=VDD2 Pin=C42-2
+Added Pin To Net: NetName=VDD2 Pin=C43-2
+Added Pin To Net: NetName=VDD2 Pin=C44-2
+Added Pin To Net: NetName=VDD2 Pin=C45-2
+Added Pin To Net: NetName=VDD2 Pin=C48-2
+Added Pin To Net: NetName=VDD2 Pin=C49-2
+Added Pin To Net: NetName=VDD2 Pin=C50-2
+Added Pin To Net: NetName=VDD2 Pin=C51-2
+Added Pin To Net: NetName=VDD2 Pin=C52-2
+Added Pin To Net: NetName=VDD2 Pin=C53-2
+Added Pin To Net: NetName=VDD2 Pin=C54-2
+Added Pin To Net: NetName=VDD2 Pin=C61-2
+Added Pin To Net: NetName=VDD2 Pin=C62-1
+Added Pin To Net: NetName=VDD2 Pin=U6-6
+Added Pin To Net: NetName=VDD2 Pin=U6-11
+Added Pin To Net: NetName=VDD2 Pin=U6-20
+Added Pin To Net: NetName=VDD2 Pin=U6-21
+Added Pin To Net: NetName=VDD2 Pin=U6-27
+Added Pin To Net: NetName=VDD2 Pin=U6-50
+Added Pin To Net: NetName=VDD2 Pin=U6-75
+Added Pin To Net: NetName=VDD2 Pin=U6-100
+Added Pin To Net: NetName=VDD2 Pin=U7-2
+Added Pin To Net: NetName=VDD2 Pin=U8-1-8
+Added Pin To Net: NetName=VDD2 Pin=U8-2-8
+Added Pin To Net: NetName=VDD2 Pin=U8-3-8
+Added Pin To Net: NetName=VDD2 Pin=U8-4-8
+Added Pin To Net: NetName=VDD2 Pin=U9-1
+Added Net: Name=VDD2
+Added Member To Class: ClassName=Sheet1_Palm Member=Component C16 10¦ÌF
+Added Member To Class: ClassName=Sheet1_Palm Member=Component C17 0.1¦ÌF
+Added Member To Class: ClassName=Sheet1_Palm Member=Component C57 10¦ÌF
+Added Member To Class: ClassName=Sheet1_Palm Member=Component C58 0.1¦ÌF
+Added Member To Class: ClassName=Sheet1_Palm Member=Component U11 AMS1117_3.3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_6

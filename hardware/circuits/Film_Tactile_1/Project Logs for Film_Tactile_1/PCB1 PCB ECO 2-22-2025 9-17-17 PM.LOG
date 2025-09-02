@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=ADC1_INP4(X2) Pin=U1-G4
+Removed Pin From Net: NetName=ADC1_INP17(X6) Pin=U1-H2
+Removed Pin From Net: NetName=ADC1_INP14(X4) Pin=U1-J2
+Removed Pin From Net: NetName=ADC1_INP9(X1) Pin=U1-J4
+Removed Pin From Net: NetName=ADC1_INP7(X3) Pin=U1-K3
+Removed Pin From Net: NetName=ADC1_INP5(X5) Pin=U1-K4
+Change component parameters: Designator = "C28" ("C28"); Footprint = "C0402"; UniqueID = "\OKDMSSIQ" ("\OKDMSSIQ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1¦ÌF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A Pin=U1-E9
+Added Pin To Net: NetName=A Pin=U6-9
+Added Net: Name=A
+Added Pin To Net: NetName=BMM350_INT Pin=U1-B6
+Added Pin To Net: NetName=BMM350_INT Pin=U4-A1
+Added Net: Name=BMM350_INT
+Added Pin To Net: NetName=B Pin=U1-E10
+Added Pin To Net: NetName=B Pin=U6-8
+Added Net: Name=B
+Added Pin To Net: NetName=C Pin=U1-F10
+Added Pin To Net: NetName=C Pin=U6-7
+Added Net: Name=C
+Added Member To Class: ClassName=Sheet1 Member=Component U1 STM32H743VIH6

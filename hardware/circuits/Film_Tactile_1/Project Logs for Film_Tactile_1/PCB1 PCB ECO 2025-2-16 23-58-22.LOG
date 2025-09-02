@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VDD Pin=C14-2
+Removed Pin From Net: NetName=+5V Pin=U2-1
+Removed Pin From Net: NetName=+5V Pin=U2-2
+Removed Pin From Net: NetName=+5V Pin=U2-3
+Removed Pin From Net: NetName=1.8V Pin=U2-5
+Removed Pin From Net: NetName=VDD Pin=U2-6
+Change Component Footprint: Designator=U2 Old Footprint=WSON-6_L1.5-W1.5-P0.50-TL New Footprint=XDFN-8_L1.6-W1.2-P0.40-BL-EP
+Change Component Comment : Designator=U2 Old Comment=TLV7103318QDSERQ1 New Comment=AP7345D-1833RH4-7
+Change Component Designator: OldDesignator=C16 NewDesignator=C23
+Added Component: Designator=C16(C0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1¦ÌF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=VDD Pin=C16-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=1.8V Pin=U2-2
+Added Pin To Net: NetName=VDD Pin=U2-3
+Added Pin To Net: NetName=+5V Pin=U2-5
+Added Pin To Net: NetName=+5V Pin=U2-6
+Added Pin To Net: NetName=+5V Pin=U2-7
+Added Pin To Net: NetName=+5V Pin=U2-8
+Added Member To Class: ClassName=Sheet1 Member=Component C23

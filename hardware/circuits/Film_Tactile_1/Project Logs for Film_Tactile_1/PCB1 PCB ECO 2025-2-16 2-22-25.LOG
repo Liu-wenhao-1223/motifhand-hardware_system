@@ -1,0 +1,148 @@
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=VDD Pin=S1-2
+Removed Pin From Net: NetName=I2C1_SCL Pin=U1-A5
+Removed Pin From Net: NetName=SPI1_MOSI Pin=U1-A6
+Removed Pin From Net: NetName=SPI1_MISO Pin=U1-A9
+Removed Pin From Net: NetName=SPI1_SCK Pin=U1-A10
+Removed Pin From Net: NetName=SPI1_NSS Pin=U1-A13
+Removed Pin From Net: NetName=SWCLK Pin=U1-A14
+Removed Pin From Net: NetName=SWDIO Pin=U1-A15
+Removed Pin From Net: NetName=I2C1_SDA Pin=U1-B4
+Removed Pin From Net: NetName=USART1_RX Pin=U1-B5
+Removed Pin From Net: NetName=USART1_TX Pin=U1-B6
+Removed Pin From Net: NetName=USART1_DE Pin=U1-B15
+Removed Pin From Net: NetName=VDD Pin=U1-C5
+Removed Pin From Net: NetName=VDD Pin=U1-C7
+Removed Pin From Net: NetName=VDD Pin=U1-C8
+Removed Pin From Net: NetName=VDD Pin=U1-C9
+Removed Pin From Net: NetName=GND Pin=U1-D5
+Removed Pin From Net: NetName=GND Pin=U1-D7
+Removed Pin From Net: NetName=GND Pin=U1-D8
+Removed Pin From Net: NetName=GND Pin=U1-D9
+Removed Pin From Net: NetName=GND Pin=U1-F2
+Removed Pin From Net: NetName=VDD Pin=U1-F3
+Removed Pin From Net: NetName=GND Pin=U1-F6
+Removed Pin From Net: NetName=GND Pin=U1-F7
+Removed Pin From Net: NetName=GND Pin=U1-F8
+Removed Pin From Net: NetName=GND Pin=U1-F9
+Removed Pin From Net: NetName=GND Pin=U1-F10
+Removed Pin From Net: NetName=GND Pin=U1-F12
+Removed Pin From Net: NetName=NetC4_2 Pin=U1-F13
+Removed Pin From Net: NetName=OSC1_IN Pin=U1-G1
+Removed Pin From Net: NetName=GND Pin=U1-G2
+Removed Pin From Net: NetName=VDD Pin=U1-G3
+Removed Pin From Net: NetName=GND Pin=U1-G6
+Removed Pin From Net: NetName=GND Pin=U1-G7
+Removed Pin From Net: NetName=GND Pin=U1-G8
+Removed Pin From Net: NetName=GND Pin=U1-G9
+Removed Pin From Net: NetName=GND Pin=U1-G10
+Removed Pin From Net: NetName=GND Pin=U1-G12
+Removed Pin From Net: NetName=VDD Pin=U1-G13
+Removed Pin From Net: NetName=OSC1_OUT Pin=U1-H1
+Removed Pin From Net: NetName=GND Pin=U1-H6
+Removed Pin From Net: NetName=GND Pin=U1-H7
+Removed Pin From Net: NetName=GND Pin=U1-H8
+Removed Pin From Net: NetName=GND Pin=U1-H9
+Removed Pin From Net: NetName=GND Pin=U1-H10
+Removed Pin From Net: NetName=GND Pin=U1-H12
+Removed Pin From Net: NetName=VDD Pin=U1-H13
+Removed Pin From Net: NetName=NRST Pin=U1-J1
+Removed Pin From Net: NetName=GND Pin=U1-J6
+Removed Pin From Net: NetName=GND Pin=U1-J7
+Removed Pin From Net: NetName=GND Pin=U1-J8
+Removed Pin From Net: NetName=GND Pin=U1-J9
+Removed Pin From Net: NetName=GND Pin=U1-J10
+Removed Pin From Net: NetName=VDD Pin=U1-J12
+Removed Pin From Net: NetName=VDD Pin=U1-J13
+Removed Pin From Net: NetName=VDD Pin=U1-K4
+Removed Pin From Net: NetName=GND Pin=U1-K6
+Removed Pin From Net: NetName=GND Pin=U1-K7
+Removed Pin From Net: NetName=GND Pin=U1-K8
+Removed Pin From Net: NetName=GND Pin=U1-K9
+Removed Pin From Net: NetName=GND Pin=U1-K10
+Removed Pin From Net: NetName=CALIBRATION_SIGNAL Pin=U1-K12
+Removed Pin From Net: NetName=GND Pin=U1-L4
+Removed Pin From Net: NetName=ERROR_SIGNAL Pin=U1-L12
+Removed Pin From Net: NetName=NORMAL_SIGNAL Pin=U1-L13
+Removed Pin From Net: NetName=GND Pin=U1-M1
+Removed Pin From Net: NetName=ADC1_INP10 Pin=U1-M2
+Removed Pin From Net: NetName=ADC1_INP11 Pin=U1-M3
+Removed Pin From Net: NetName=GND Pin=U1-M8
+Removed Pin From Net: NetName=GND Pin=U1-M9
+Removed Pin From Net: NetName=NetC5_2 Pin=U1-M10
+Removed Pin From Net: NetName=AGND Pin=U1-N1
+Removed Pin From Net: NetName=ADC1_INP4 Pin=U1-N5
+Removed Pin From Net: NetName=VDD Pin=U1-N8
+Removed Pin From Net: NetName=VDD Pin=U1-N9
+Removed Pin From Net: NetName=VDD Pin=U1-N10
+Removed Pin From Net: NetName=AVDD Pin=U1-P1
+Removed Pin From Net: NetName=ADC1_INP14 Pin=U1-P2
+Removed Pin From Net: NetName=ADC1_INP3 Pin=U1-P3
+Removed Pin From Net: NetName=ADC1_INP8 Pin=U1-P5
+Removed Pin From Net: NetName=ADC1_INP6 Pin=U1-P6
+Removed Pin From Net: NetName=VDD Pin=U1-R1
+Removed Pin From Net: NetName=ADC1_INP15 Pin=U1-R2
+Removed Pin From Net: NetName=ADC1_INP7 Pin=U1-R3
+Removed Pin From Net: NetName=ADC1_INP5 Pin=U1-R4
+Removed Pin From Net: NetName=ADC1_INP9 Pin=U1-R5
+Removed Pin From Net: NetName=ADC1_INP2 Pin=U1-R6
+Removed Pin From Net: NetName=ICM_INT1 Pin=U1-R14
+Removed Pin From Net: NetName=ICM_INT2 Pin=U1-R15
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=S2
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Change Component Designator: OldDesignator=S2 NewDesignator=S1
+Added Component: Designator=R?(R0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(TFBGA100)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TFBGA100)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TFBGA100)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=I2C1_SDA Pin=U?-A4
+Added Pin To Net: NetName=USART1_RX Pin=U?-A5
+Added Pin To Net: NetName=SPI1_MISO Pin=U?-A6
+Added Pin To Net: NetName=SPI1_SCK Pin=U?-A7
+Added Pin To Net: NetName=SPI1_NSS Pin=U?-A8
+Added Pin To Net: NetName=SWCLK Pin=U?-A9
+Added Pin To Net: NetName=SWDIO Pin=U?-A10
+Added Pin To Net: NetName=I2C1_SCL Pin=U?-B4
+Added Pin To Net: NetName=USART1_TX Pin=U?-B5
+Added Pin To Net: NetName=OSC1_IN Pin=U?-C1
+Added Pin To Net: NetName=GND Pin=U?-C2
+Added Pin To Net: NetName=SPI1_MOSI Pin=U?-C5
+Added Pin To Net: NetName=OSC1_OUT Pin=U?-D1
+Added Pin To Net: NetName=VDD Pin=U?-D2
+Added Pin To Net: NetName=NRST Pin=U?-E1
+Added Pin To Net: NetName=GND Pin=U?-E4
+Added Pin To Net: NetName=GND Pin=U?-E5
+Added Pin To Net: NetName=GND Pin=U?-E6
+Added Pin To Net: NetName=NetC5_2 Pin=U?-E7
+Added Pin To Net: NetName=VDD Pin=U?-F5
+Added Pin To Net: NetName=VDD Pin=U?-F6
+Added Pin To Net: NetName=NetC4_2 Pin=U?-F8
+Added Pin To Net: NetName=GND Pin=U?-G1
+Added Pin To Net: NetName=VDD Pin=U?-H1
+Added Pin To Net: NetName=GND Pin=U?-J1
+Added Pin To Net: NetName=VDD Pin=U?-K1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-D5
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32H743VIH6
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32H743VIH6
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32H743VIH6

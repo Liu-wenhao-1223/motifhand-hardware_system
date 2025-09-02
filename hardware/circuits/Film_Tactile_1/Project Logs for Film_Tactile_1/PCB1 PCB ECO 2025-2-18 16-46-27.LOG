@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ICM_INT2 Pin=U1-G10
+Removed Pin From Net: NetName=ICM_INT1 Pin=U1-H10
+Added Pin To Net: NetName=ICM_INT2 Pin=U1-C10
+Added Pin To Net: NetName=ICM_INT1 Pin=U1-D10

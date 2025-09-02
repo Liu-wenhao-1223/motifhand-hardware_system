@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NORMAL_SIGNAL Pin=L1-2
+Removed Pin From Net: NetName=ERROR_SIGNAL Pin=L2-2
+Removed Pin From Net: NetName=CALIBRATION_SIGNAL Pin=L3-2
+Removed Pin From Net: NetName=VDD Pin=R8-2
+Removed Pin From Net: NetName=VDD Pin=R9-2
+Removed Pin From Net: NetName=VDD Pin=R10-2
+Removed Member From Class: ClassName=Sheet1 Member=L1
+Removed Member From Class: ClassName=Sheet1 Member=L2
+Removed Member From Class: ClassName=Sheet1 Member=L3
+Removed Member From Class: ClassName=Sheet1 Member=R8
+Removed Member From Class: ClassName=Sheet1 Member=R9
+Removed Member From Class: ClassName=Sheet1 Member=R10
+Added Component: Designator=LED1(LED-SMD_4P-L2.0-W2.0-TL_WS2812B-2020)
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=+5V Pin=LED1-4
+Added Pin To Net: NetName=TIM2_CH4 Pin=LED1-3
+Added Pin To Net: NetName=TIM2_CH4 Pin=U1-K7
+Added Net: Name=TIM2_CH4
+Added Member To Class: ClassName=Sheet1 Member=Component LED1 WS2812B-2020

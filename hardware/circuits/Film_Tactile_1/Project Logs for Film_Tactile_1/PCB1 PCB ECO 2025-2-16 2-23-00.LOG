@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=I2C1_SDA Pin=U?-A4
+Removed Pin From Net: NetName=USART1_RX Pin=U?-A5
+Removed Pin From Net: NetName=SPI1_MISO Pin=U?-A6
+Removed Pin From Net: NetName=SPI1_SCK Pin=U?-A7
+Removed Pin From Net: NetName=SPI1_NSS Pin=U?-A8
+Removed Pin From Net: NetName=SWCLK Pin=U?-A9
+Removed Pin From Net: NetName=SWDIO Pin=U?-A10
+Removed Pin From Net: NetName=I2C1_SCL Pin=U?-B4
+Removed Pin From Net: NetName=USART1_TX Pin=U?-B5
+Removed Pin From Net: NetName=OSC1_IN Pin=U?-C1
+Removed Pin From Net: NetName=SPI1_MOSI Pin=U?-C5
+Removed Pin From Net: NetName=OSC1_OUT Pin=U?-D1
+Removed Pin From Net: NetName=NetR?_2 Pin=U?-D5
+Removed Pin From Net: NetName=NRST Pin=U?-E1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Pin To Net: NetName=I2C1_SDA Pin=U1-A4
+Added Pin To Net: NetName=USART1_RX Pin=U1-A5
+Added Pin To Net: NetName=SPI1_MISO Pin=U1-A6
+Added Pin To Net: NetName=SPI1_SCK Pin=U1-A7
+Added Pin To Net: NetName=SPI1_NSS Pin=U1-A8
+Added Pin To Net: NetName=SWCLK Pin=U1-A9
+Added Pin To Net: NetName=SWDIO Pin=U1-A10
+Added Pin To Net: NetName=I2C1_SCL Pin=U1-B4
+Added Pin To Net: NetName=USART1_TX Pin=U1-B5
+Added Pin To Net: NetName=OSC1_IN Pin=U1-C1
+Added Pin To Net: NetName=SPI1_MOSI Pin=U1-C5
+Added Pin To Net: NetName=OSC1_OUT Pin=U1-D1
+Added Pin To Net: NetName=NetR?_2 Pin=U1-D5
+Added Pin To Net: NetName=NRST Pin=U1-E1
+Added Member To Class: ClassName=Sheet1 Member=Component S1 SW-PB

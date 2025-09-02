@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MT_Lepton_EN Pin=U6-22
+Removed Pin From Net: NetName=MT_VSYNC Pin=U6-23
+Added Pin To Net: NetName=MT_Lepton_EN Pin=U6-1
+Added Pin To Net: NetName=MT_VSYNC Pin=U6-2
