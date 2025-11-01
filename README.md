@@ -2,6 +2,8 @@
 
 # Hardware Design of the MOTIF Hand
 
+[![arXiv](https://img.shields.io/badge/ArXiv-2506.19201-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2506.19201) [![web](https://img.shields.io/badge/Web-Motif_Hand-blue.svg?style=plastic)](https://slurm-lab-usc.github.io/motif-hand/) [![git](https://img.shields.io/badge/Github-Main_Page-orange.svg?style=plastic)](https://github.com/slurm-lab-usc/motif-hand-documents) [![license](https://img.shields.io/badge/LICENSE-Apache--2.0-white.svg?style=plastic)](./LICENSE)
+
 ## Project Structure
 
 ```
