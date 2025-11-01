@@ -15,7 +15,6 @@
 03_Firmware/                   ## Based on STM32H7
 ├── BMM350/                    # Source code of the Magnetometer
 ├── DWT/                       # Source code of the DWT Clock
-├── EKF/                       # Source code of the EKF
 ├── FSR/                       # Source code of FSR multi-channel scanning
 ├── ICM42688P/                 # Source code of the IMU
 ├── MODBUS-LIB/                # Source code of the Modbus
